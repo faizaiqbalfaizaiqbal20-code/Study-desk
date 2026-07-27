@@ -1,7 +1,9 @@
 # 📚 StudyDeck – AI-Powered Active Recall & Study Assistant
 
-> **Live Application**: [https://study-deck.netlify.app](https://your-netlify-link.netlify.app) *(Replace with your live link)*
-> **GitHub Repository**: [https://github.com/your-username/study-deck](https://github.com/your-username/study-deck) *(Replace with your GitHub repo link)*
+# 📚 StudyDeck – AI-Powered Active Recall & Study Assistant
+
+> 🌐 **Live Application**: https://study-deckapp1.vercel.app  
+> 💻 **GitHub Repository**: https://github.com/faizaiqbalfaizaiqbal20-code/Study-desk
 
 ---
 
